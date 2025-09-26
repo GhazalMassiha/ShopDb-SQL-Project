@@ -12,13 +12,13 @@ This project contains SQL scripts for a sample database called **ShopDb**. It ha
 | File | What it does |
 |------|----------------|
 | `Sql Script.sql` | Creates database, tables (with primary keys and foreign keys), and inserts data. |
-| `SQLQuery1.sql` | Contains queries: filtering, grouping, joins, sorting etc. |
+| `SQLQuery5.sql` | Contains queries: filtering, grouping, joins, sorting etc. |
 
 ## How to run / test
 
 1. Open your SQL tool (e.g. SQL Server Management Studio, MySQL Workbench, SQLite, etc.).  
 2. Run `Sql Script.sql` first — this sets up the database and fills the tables.  
-3. Then run `SQLQuery1.sql` to see the results of the queries.  
+3. Then run `SQLQuery5.sql` to see the results of the queries.  
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ You need a SQL server / database engine that supports:
 ## How this is organized
 
 - Schema + data → in `Sql Script.sql`  
-- Queries → in `SQLQuery1.sql`  
+- Queries → in `SQLQuery5.sql`  
 
 ## Possible enhancements (optional)
 
